@@ -18,7 +18,7 @@ Uygulama için sizinle paylaşılan link ile oluşturulan Github kod deposu (rep
 - Yüklediğiniz  kodlar  benzerlik  tarama  sisteminden  geçirilecektir.  Lütfen  kendi  yazdığınız kodları sisteme yükleyiniz. 
 
 **İlgili Hafta Uygulama Depo Yükleme Son Tarihi ve Saati:** 14.03.2023 15:30
-<br>
+<br><br>
 Kaç puan alacağınızı öğrenmek için:  
 <br>
 Sizin  için  oluşturulan  şablon  kod  deposunu  (repository)  bilgisayarınıza  indirerek  ve yüklemeniz  gereken  dosyayı  oluşturup  “unitTest.c”  dosyasını  derlediğinizde  oluşan  not.txt dokümanından  notunuzu  görebilirsiniz.  Aynı  zamanda  yazdığınız  kodların  doğruluğunu  bu  şekilde test edebilir ve notunuzu yükseltmek için kodunuzu güncelleyerek Github Classroom kod deponuza yükleyebilirsiniz.  (Lütfen  sadece  yüklenmesi  istenilen  dosyayı  yükleyiniz.  *unitTest*  vb  gibi  diğer dosyalarda  değişiklik  yapmayınız  ve  yüklemeyiniz.  Aksi  takdirde  oluşturulan  sistem  bunu değerlendirmeyi yanıltma olarak algılayacaktır.) 
