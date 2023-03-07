@@ -14,7 +14,7 @@ Uygulama için sizinle paylaşılan link ile oluşturulan Github kod deposu (rep
 - Dosyada fonksiyon tanımları (dosya içerisinde burada prototipi verilen fonksiyonların kodları yer almalıdır.) 
 - “*stdio.h*” kütüphanesi ve test için gerekli kütüphaneler *unitTest.c* dosyasında tanımlanmıştır. Kullanacağınız  başka  diğer  kütüphaneler  var  ise  yükleyeceğiniz  dosya  içerisinde  en  başta tanımlayınız. 
 - Fonksiyon adı, kullanılan argüman ve geri-dönüş tipi birebir aynı olmalıdır. Kod yazarken fonksiyon  bloğunun  içerisinde  istediğiniz  değişkenleri  istediğiniz  isimde  isimlendirip kullanabilirsiniz. (Hata almamak için Türkçe karakter kullanmamaya özen gösteriniz.) 
-- Sizden  yazılmasını  istenilen  algoritmayı  yazınız.  Özellikle  test  dosyasına  göre  sistemi yanıltmak için çıktı üretenler hakkında işlem yapılacak ve cezalandırılacaktır.  
+- Sadece sizden istenilen dosya içerisinde algoritmanızı yazınız. Özellikle sistemi yanıltmaya yönelik girişimlerde bulunmayınız. Sistemi yanıltmaya yönelik çalışmalar olması durumunda gerekli işlemler yapılacaktır. (Kasıtlı olarak sistem dosyalarının değiştirilmesi vb.)
 - Yüklediğiniz  kodlar  benzerlik  tarama  sisteminden  geçirilecektir.  Lütfen  kendi  yazdığınız kodları sisteme yükleyiniz. 
 
 **İlgili Hafta Uygulama Depo Yükleme Son Tarihi ve Saati:** 14.03.2023 15:30
